@@ -48,7 +48,7 @@ If you want to search & filters the complete database of [Military one word doma
 | deterrence.app    | available | 60       | 80%    | 10     |                                                           |                  |                  |
 | deterrence.at     | available | 60       | 80%    | 10     |                                                           |                  |                  |
 | deterrence.cloud  | available | 60       | 80%    | 10     |                                                           |                  |                  |
-| deterrence.co     | available | 60       | 80%    | 10     |                                                           |                  |                  |
+| deterrence.co     | premium   | 60       | 80%    | 10     |                                                           |                  |                  |
 | deterrence.dev    | available | 60       | 80%    | 10     |                                                           |                  |                  |
 | deterrence.expert | available | 60       | 80%    | 10     |                                                           |                  |                  |
 
