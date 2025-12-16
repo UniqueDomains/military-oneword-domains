@@ -29,28 +29,28 @@ If you want to search & filters the complete database of [Military one word doma
 | operations.tech     | premium   | 58       | 88%    | 10     |                                                           |                  |                  |
 | operations.xyz      | resell    | 58       | 88%    | 10     | Spaceship, Inc.                                           | 02/06/2014 18:31 | 02/06/2026 23:59 |
 | operations.zone     | expiring  | 58       | 88%    | 10     | RegistryGate GmbH                                         | 15/07/2024 10:36 | 15/07/2025 10:36 |
-| defense.accountant  | premium   | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.accountants | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.actor       | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.adult       | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.ag          | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.airforce    | premium   | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.apartments  | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.archi       | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.art         | premium   | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.asia        | resell    | 70       | 24%    | 7      | Dynadot Inc                                               | 29/01/2016 08:00 | 29/01/2026 08:00 |
-| defense.associates  | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.auction     | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.audio       | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.auto        | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.baby        | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.band        | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.bar         | premium   | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.bargains    | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.bayern      | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.beauty      | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.beer        | available | 70       | 24%    | 7      |                                                           |                  |                  |
-| defense.best        | premium   | 70       | 24%    | 7      |                                                           |                  |                  |
+| defense.accountant  | premium   | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.accountants | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.actor       | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.adult       | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.ag          | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.airforce    | premium   | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.apartments  | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.archi       | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.art         | premium   | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.asia        | resell    | 70       | 23%    | 7      | Dynadot Inc                                               | 29/01/2016 08:00 | 29/01/2026 08:00 |
+| defense.associates  | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.auction     | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.audio       | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.auto        | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.baby        | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.band        | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.bar         | premium   | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.bargains    | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.bayern      | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.beauty      | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.beer        | available | 70       | 23%    | 7      |                                                           |                  |                  |
+| defense.best        | premium   | 70       | 23%    | 7      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Military-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Military one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 62,232       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,157,142    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,157,759    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
