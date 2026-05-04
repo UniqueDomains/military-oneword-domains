@@ -1,22 +1,22 @@
-# Military One-Word Domains (16,229)
+# Military Keyword Domains (15,154)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C229%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C154%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of military one-word domains from Unique Domains.
+These domains are keyword-based names tied to “military” and related terms such as forces, spread across 505 TLDs. Updated daily, this selection includes 15,154 domains with a median ask of $1,028.63. Compare extension fit, naming clarity, and renewal exposure before choosing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,229 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,154 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,229 domains
+**Public extract:** 1,000 rows · **Live catalog:** 15,154 domains · **Median ask:** $1,028.63 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Military`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| armedforces.zone   | available | $51.98    | —             | 50             | 80     | 12     | namecheap                                           |
-| army.pro           | resell    | —         | —             | 66             | 92     | 4      | Epik LLC                                            |
-| military.zone      | premium   | $82.50    | —             | 64             | 29     | 8      | name.com                                            |
-| armedforces.tech   | available | $13.99    | $84.99        | 50             | 80     | 12     | name.com                                            |
-| armedforces.cloud  | resell    | —         | —             | 50             | 80     | 12     | GoDaddy                                             |
-| military.xxx       | premium   | $310      | —             | 64             | 29     | 8      | name.com                                            |
-| armedforces.space  | available | $25.98    | —             | 50             | 80     | 12     | namecheap                                           |
-| military.work      | resell    | —         | —             | 74             | 29     | 8      | Wild West Domains, Inc.                             |
-| military.sex       | premium   | $310      | —             | 64             | 29     | 8      | name.com                                            |
-| armedforces.site   | available | $2.99     | $46.99        | 50             | 80     | 12     | name.com                                            |
-| military.team      | resell    | —         | —             | 74             | 29     | 8      | Sav.com, LLC - 38                                   |
-| military.mobile    | premium   | $780      | $780          | 64             | 29     | 8      | namecheap                                           |
-| armedforces.pro    | available | $30.98    | —             | 50             | 80     | 12     | namecheap                                           |
-| military.ski       | resell    | —         | —             | 74             | 29     | 8      | GoDaddy.com, LLC                                    |
-| military.markets   | premium   | $82.50    | —             | 64             | 29     | 8      | name.com                                            |
-| armedforces.online | available | $2.99     | $46.99        | 50             | 80     | 12     | name.com                                            |
-| military.pro       | resell    | —         | —             | 74             | 29     | 8      | Dynadot Inc                                         |
-| military.kiwi      | premium   | $73.41    | —             | 64             | 29     | 8      | name.com                                            |
-| armedforces.ninja  | available | $42.98    | —             | 50             | 80     | 12     | namecheap                                           |
-| military.plus      | resell    | —         | —             | 74             | 29     | 8      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| forces.ac          | available | $49.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.accountants | available | $43.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.actor       | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.adult       | available | $166.98   | —             | 82             | 12     | 6      | namecheap |
+| forces.ag          | available | $89       | —             | 82             | 12     | 6      | name.com  |
+| forces.agency      | available | $7.99     | —             | 82             | 12     | 6      | name.com  |
+| forces.airforce    | available | $134.98   | —             | 82             | 12     | 6      | namecheap |
+| forces.apartments  | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.archi       | available | $24.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.asia        | available | $2.99     | —             | 82             | 12     | 6      | name.com  |
+| forces.associates  | available | $21.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.attorney    | available | $69.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.auction     | available | $4.99     | —             | 82             | 12     | 6      | name.com  |
+| forces.audio       | available | $159.98   | —             | 82             | 12     | 6      | namecheap |
+| forces.auto        | available | $2,950    | —             | 82             | 12     | 6      | namecheap |
+| forces.autos       | available | $1.99     | —             | 82             | 12     | 6      | name.com  |
+| forces.baby        | available | $29.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.band        | available | $29.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.bar         | available | $39.99    | —             | 82             | 12     | 6      | name.com  |
+| forces.barcelona   | available | $38.98    | —             | 82             | 12     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 16,229 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 15,154 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is built around military-related keyword domains rather than a single naming style or extension. The set is broad, with names such as forces.ac, forces.agency, and forces.airforce showing how widely the keyword appears across niche and nonstandard TLDs. For founders, the main question is whether the full name reads clearly, sounds credible, and stays memorable outside .com. For investors, the key check is pricing discipline relative to extension quality and likely buyer pool. With a median ask of $1,028.63, the best comparisons in this set usually come from matching keyword clarity against TLD relevance and probable renewal burden.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- 15,154 military keyword domains in this selection
+- Coverage spans 505 different TLDs
+- Median ask across the set is $1,028.63
+- Check keyword clarity against extension relevance
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Military One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Military Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
