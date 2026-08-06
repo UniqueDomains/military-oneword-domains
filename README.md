@@ -1,29 +1,29 @@
-# Military Keyword Domains (15,175)
+# One-Word Military Domain Names (170,774)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C175%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-170%2C774%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These domains are keyword-based names tied to “military” and related terms such as forces, spread across 505 TLDs. Updated daily, this selection includes 15,154 domains with a median ask of $1,028.63. Compare extension fit, naming clarity, and renewal exposure before choosing.
+This is a curated set of one-word domain names tied to the military keyword, spanning 506+ TLDs with a median ask of $728. Updated daily, it covers a wide range of extensions beyond .com, giving investors and founders concrete pricing signals for evaluating military-themed domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,175 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **170,774 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,175 domains · **Median ask:** $1,027.87 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 170,774 domains · **Median ask:** $703.43 · **High-demand under $2,500:** 543
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/sector/Military`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/sector/military`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/Military?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/military?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./military.csv">CSV</a> / <a href="./military.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,25 +31,25 @@ These domains are keyword-based names tied to “military” and related terms s
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Military?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Military?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/military?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/military?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Military`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/military`.
 
 ### Files
 
-- `military.csv` — public CSV extract (1,000 rows)
-- `military.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `military.csv`, public CSV extract (1,000 rows)
+- `military.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| forces.ac          | available | $49.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.accountants | available | $43.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.actor       | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.adult       | available | $166.98   | —             | 82             | 12     | 6      | namecheap |
-| forces.ag          | available | $89       | —             | 82             | 12     | 6      | name.com  |
-| forces.agency      | available | $7.99     | —             | 82             | 12     | 6      | name.com  |
-| forces.airforce    | available | $134.98   | —             | 82             | 12     | 6      | namecheap |
-| forces.apartments  | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.archi       | available | $24.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.asia        | available | $2.99     | —             | 82             | 12     | 6      | name.com  |
-| forces.associates  | available | $21.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.attorney    | available | $69.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.auction     | available | $4.99     | —             | 82             | 12     | 6      | name.com  |
-| forces.audio       | available | $159.98   | —             | 82             | 12     | 6      | namecheap |
-| forces.auto        | available | $2,950    | —             | 82             | 12     | 6      | namecheap |
-| forces.autos       | available | $1.99     | —             | 82             | 12     | 6      | name.com  |
-| forces.baby        | available | $29.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.band        | available | $29.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.bar         | available | $39.99    | —             | 82             | 12     | 6      | name.com  |
-| forces.barcelona   | available | $38.98    | —             | 82             | 12     | 6      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| air.realty      | available | $109.99   | $299          | high           | medium | 3      | namesilo         |
+| law.delivery    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| air.airforce    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| gun.ryukyu      | available | $22.98    | —             | medium         | low    | 3      | namecheap        |
+| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC    |
+| air.army        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| guns.audio      | available | $159.98   | —             | medium         | low    | 4      | namecheap        |
+| sky.run         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| air.navy        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
+| guns.band       | available | $29.99    | —             | medium         | low    | 4      | name.com         |
+| data.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| foot.shop       | premium   | $6,250    | —             | medium         | low    | 4      | name.com         |
+| guns.bike       | available | $14.99    | —             | medium         | low    | 4      | name.com         |
+| game.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| guns.accountant | premium   | $437.50   | —             | medium         | low    | 4      | name.com         |
+| guns.capital    | available | $9.99     | —             | medium         | low    | 4      | name.com         |
+| guns.cam        | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
+| guns.art        | premium   | $3,750    | —             | medium         | low    | 4      | name.com         |
+| guns.cards      | available | $3.99     | —             | medium         | low    | 4      | name.com         |
+| guns.life       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,39 +93,39 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,175 live domains                        |
+| 1,000-row public sample | 170,774 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 543 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/Military?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Military?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/military?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/military?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is built around military-related keyword domains rather than a single naming style or extension. The set is broad, with names such as forces.ac, forces.agency, and forces.airforce showing how widely the keyword appears across niche and nonstandard TLDs. For founders, the main question is whether the full name reads clearly, sounds credible, and stays memorable outside .com. For investors, the key check is pricing discipline relative to extension quality and likely buyer pool. With a median ask of $1,028.63, the best comparisons in this set usually come from matching keyword clarity against TLD relevance and probable renewal burden.
+This selection covers one-word domain names built around the military keyword, drawn from a pool of 170,193 listings across 506+ TLD extensions. The median ask sits at $728, with naming styles ranging from direct terms to abstract, brandable single words. Examples such as technology.security, wizard.taxi, and compound.fan show the range of TLDs represented, from niche extensions to more mainstream options. When comparing domains in this set, price, TLD recognition, and renewal cost are the main factors that separate a strong pick from a risky one.
 
-- 15,154 military keyword domains in this selection
-- Coverage spans 505 different TLDs
-- Median ask across the set is $1,028.63
-- Check keyword clarity against extension relevance
+- 170,193 one-word domains matched to the military keyword
+- Median ask of $728 across this domain selection
+- Spans 506+ TLD extensions beyond .com
+- Mix of brandable and direct-term one-word options
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Military Keyword Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Military Domain Names*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/Military?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/military?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_api_docs)
