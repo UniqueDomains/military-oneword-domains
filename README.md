@@ -1,10 +1,10 @@
-# One-Word Military Domain Names (170,774)
+# One-Word Military Domain Names (172,962)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-170%2C774%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-172%2C962%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word domain names tied to the military keyword, spanning 506+ TLDs with a median ask of $728. Updated daily, it covers a wide range of extensions beyond .com, giving investors and founders concrete pricing signals for evaluating military-themed domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **170,774 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **172,962 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 170,774 domains · **Median ask:** $703.43 · **High-demand under $2,500:** 543
+**Public extract:** 1,000 rows · **Live catalog:** 172,962 domains · **Median ask:** $687.00 · **High-demand under $2,500:** 543
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/military`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| air.realty      | available | $109.99   | $299          | high           | medium | 3      | namesilo         |
-| law.delivery    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| air.airforce    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
-| gun.ryukyu      | available | $22.98    | —             | medium         | low    | 3      | namecheap        |
-| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC    |
-| air.army        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
-| guns.audio      | available | $159.98   | —             | medium         | low    | 4      | namecheap        |
-| sky.run         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
-| air.navy        | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
-| guns.band       | available | $29.99    | —             | medium         | low    | 4      | name.com         |
-| data.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| foot.shop       | premium   | $6,250    | —             | medium         | low    | 4      | name.com         |
-| guns.bike       | available | $14.99    | —             | medium         | low    | 4      | name.com         |
-| game.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
-| guns.accountant | premium   | $437.50   | —             | medium         | low    | 4      | name.com         |
-| guns.capital    | available | $9.99     | —             | medium         | low    | 4      | name.com         |
-| guns.cam        | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
-| guns.art        | premium   | $3,750    | —             | medium         | low    | 4      | name.com         |
-| guns.cards      | available | $3.99     | —             | medium         | low    | 4      | name.com         |
-| guns.life       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo          |
+| guns.cam      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
+| air.airforce  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap         |
+| gun.airforce  | available | $103.99   | $103.99       | medium         | low    | 3      | namesilo          |
+| guns.digital  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 15 |
+| air.army      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap         |
+| gun.ryukyu    | available | $22.98    | —             | medium         | low    | 3      | namecheap         |
+| guns.info     | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC       |
+| air.navy      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap         |
+| law.airforce  | available | $103.99   | $103.99       | high           | medium | 3      | namesilo          |
+| guns.tattoo   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC  |
+| gun.army      | premium   | $71.40    | $71.40        | medium         | low    | 3      | namesilo          |
+| law.navy      | available | $41.99    | $41.99        | high           | medium | 3      | namesilo          |
+| guns.tv       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
+| gun.navy      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
+| deck.airforce | available | $134.98   | —             | high           | low    | 4      | namecheap         |
+| guns.xyz      | resell    | —         | —             | medium         | low    | 4      | Name.com, Inc     |
+| base.airforce | premium   | $78.54    | $78.54        | medium         | medium | 4      | namesilo          |
+| deck.army     | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| navy.army     | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 170,774 live domains                       |
+| 1,000-row public sample | 172,962 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 543 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Military Domain Names*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Military Domain Names*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
