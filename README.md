@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| gun.ryukyu      | available | $22.98    | —             | medium         | low    | 3      | namecheap                                               |
-| law.delivery    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
-| camp.accountant | premium   | $625      | $81.25        | medium         | low    | 4      | name.com                                                |
-| jet.army        | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                               |
-| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                           |
-| camp.actor      | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                                |
-| jet.navy        | available | $41.99    | $41.99        | medium         | medium | 3      | namesilo                                                |
-| camp.cafe       | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| camp.army       | premium   | $71.40    | $71.40        | medium         | low    | 4      | namesilo                                                |
-| camp.adult      | available | $69.98    | $166.98       | medium         | low    | 4      | namecheap                                               |
-| camp.company    | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| camp.auction    | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                                |
-| camp.airforce   | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                                |
-| camp.finance    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 45                                       |
-| camp.cam        | premium   | $854      | $16.52        | medium         | low    | 4      | namesilo                                                |
-| camp.audio      | available | $104.99   | $114.99       | medium         | low    | 4      | namesilo                                                |
-| camp.group      | resell    | —         | —             | medium         | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| camp.clinic     | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                                |
-| camp.auto       | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                |
-| camp.id         | resell    | —         | —             | medium         | low    | 4      | PANDI Registrar                                         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| jet.navy         | available | $41.99    | $41.99        | medium         | medium | 3      | namesilo                                                  |
+| bit.football     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| camp.army        | premium   | $71.40    | $71.40        | medium         | low    | 4      | namesilo                                                  |
+| camp.accountants | available | $43.99    | $153.99       | medium         | low    | 4      | name.com                                                  |
+| law.delivery     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| camp.auction     | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                                  |
+| camp.airforce    | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                                  |
+| law.luxury       | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                             |
+| camp.bar         | premium   | $393.75   | $562.50       | medium         | low    | 4      | name.com                                                  |
+| camp.auto        | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                  |
+| camp.bio         | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| camp.camera      | premium   | $500      | $500          | medium         | low    | 4      | name.com                                                  |
+| camp.broker      | available | $11.98    | $47.98        | medium         | low    | 4      | namecheap                                                 |
+| camp.cc          | resell    | —         | —             | low            | low    | 4      | Megazone Corp., dba HOSTING.KR                            |
+| camp.casa        | premium   | $96       | $11.80        | medium         | low    | 4      | namesilo                                                  |
+| camp.car         | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                  |
+| camp.finance     | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 45                                         |
+| camp.clinic      | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                                  |
+| camp.courses     | available | $1.98     | $50.98        | medium         | low    | 4      | namecheap                                                 |
+| camp.group       | resell    | —         | —             | medium         | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
