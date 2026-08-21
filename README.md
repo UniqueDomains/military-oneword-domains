@@ -16,7 +16,7 @@ This is a curated set of one-word domain names tied to the military keyword, spa
 
 **Public extract:** 1,000 rows · **Live catalog:** 186,261 domains · **Median ask:** $650.88 · **High-demand under $2,500:** 538
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/military`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
-| camp.baby     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                           |
-| air.airforce  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| gun.ryukyu    | available | $22.98    | —             | medium         | low    | 3      | namecheap                                                 |
-| camp.cafe     | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| air.army      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| jet.army      | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
-| camp.company  | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| air.navy      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
-| camp.adult    | available | $69.98    | $166.98       | medium         | low    | 4      | namecheap                                                 |
-| camp.plus     | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| base.airforce | premium   | $78.54    | $78.54        | medium         | medium | 4      | namesilo                                                  |
-| camp.airforce | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                                  |
-| camp.sex      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                                          |
-| camp.army     | premium   | $71.40    | $71.40        | medium         | low    | 4      | namesilo                                                  |
-| camp.bayern   | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo                                                  |
-| camp.soccer   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| camp.bid      | premium   | $3,125    | $125          | medium         | low    | 4      | name.com                                                  |
-| camp.cab      | available | $23.99    | $43.99        | medium         | low    | 4      | name.com                                                  |
-| camp.studio   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo                                            |
+| jet.airforce  | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                         |
+| air.airforce  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                           |
+| gun.airforce  | available | $103.99   | $103.99       | medium         | low    | 3      | namesilo                                            |
+| camp.baby     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| air.army      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                           |
+| gun.ryukyu    | available | $22.98    | —             | medium         | low    | 3      | namecheap                                           |
+| camp.eu       | resell    | —         | —             | low            | low    | 4      | Name: InterNetX GmbH Website: https://internetx.com |
+| air.navy      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                           |
+| jet.army      | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                           |
+| camp.town     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| gun.army      | premium   | $71.40    | $71.40        | medium         | low    | 3      | namesilo                                            |
+| law.airforce  | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                                            |
+| guns.digital  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 15                                   |
+| gun.navy      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                            |
+| law.navy      | available | $41.99    | $41.99        | high           | medium | 3      | namesilo                                            |
+| guns.info     | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                                         |
+| base.airforce | premium   | $78.54    | $78.54        | medium         | medium | 4      | namesilo                                            |
+| camp.airforce | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                            |
+| guns.tattoo   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Military Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Military Domain Names*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
