@@ -1,10 +1,10 @@
-# One-Word Military Domain Names (210,484)
+# One-Word Military Domain Names (211,716)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-210%2C484%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-211%2C716%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word domain names tied to the military keyword, spanning 506+ TLDs with a median ask of $728. Updated daily, it covers a wide range of extensions beyond .com, giving investors and founders concrete pricing signals for evaluating military-themed domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **210,484 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **211,716 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 210,484 domains · **Median ask:** $585.85 · **High-demand under $2,500:** 658
+**Public extract:** 1,000 rows · **Live catalog:** 211,716 domains · **Median ask:** $583.09 · **High-demand under $2,500:** 658
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/sector/military`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| jet.navy        | available | $41.99    | $41.99        | medium         | medium | 3      | namesilo                                                  |
-| bit.football    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| camp.army       | premium   | $71.40    | $71.40        | medium         | low    | 4      | namesilo                                                  |
-| camp.airforce   | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                                  |
-| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                             |
-| camp.camera     | premium   | $500      | $500          | medium         | low    | 4      | name.com                                                  |
-| camp.auto       | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                  |
-| camp.bio        | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| camp.casa       | premium   | $96       | $11.80        | medium         | low    | 4      | namesilo                                                  |
-| camp.broker     | available | $11.98    | $47.98        | medium         | low    | 4      | namecheap                                                 |
-| camp.cc         | resell    | —         | —             | low            | low    | 4      | Megazone Corp., dba HOSTING.KR                            |
-| camp.clinic     | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                                  |
-| camp.car        | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                                  |
-| camp.finance    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 45                                         |
-| camp.consulting | premium   | $130      | $260          | medium         | low    | 4      | namecheap                                                 |
-| camp.courses    | available | $1.98     | $50.98        | medium         | low    | 4      | namecheap                                                 |
-| camp.network    | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| camp.cool       | premium   | $500      | $500          | medium         | low    | 4      | name.com                                                  |
-| camp.credit     | available | $9.48     | $131.98       | medium         | low    | 4      | namecheap                                                 |
-| camp.news       | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
+| camp.baby     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                           |
+| air.airforce  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| gun.ryukyu    | available | $22.98    | —             | medium         | low    | 3      | namecheap                                                 |
+| camp.cafe     | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| air.army      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| jet.army      | available | $17.48    | $48.98        | medium         | medium | 3      | namecheap                                                 |
+| camp.company  | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| air.navy      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                                 |
+| camp.adult    | available | $69.98    | $166.98       | medium         | low    | 4      | namecheap                                                 |
+| camp.plus     | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| camp.army     | premium   | $71.40    | $71.40        | medium         | low    | 4      | namesilo                                                  |
+| camp.airforce | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                                  |
+| camp.sex      | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                                          |
+| camp.bid      | premium   | $3,125    | $125          | medium         | low    | 4      | name.com                                                  |
+| camp.bayern   | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo                                                  |
+| camp.soccer   | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| camp.blog     | premium   | $640      | $2,660        | medium         | low    | 4      | namesilo                                                  |
+| camp.cab      | available | $23.99    | $43.99        | medium         | low    | 4      | name.com                                                  |
+| camp.studio   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 210,484 live domains                       |
+| 1,000-row public sample | 211,716 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 658 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Military Domain Names*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Military Domain Names*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
