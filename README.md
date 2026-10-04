@@ -1,10 +1,10 @@
-# One-Word Military Domain Names (139,538)
+# One-Word Military Domain Names (143,177)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-139%2C538%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-143%2C177%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word domain names tied to the military keyword, spanning 506+ TLDs with a median ask of $728. Updated daily, it covers a wide range of extensions beyond .com, giving investors and founders concrete pricing signals for evaluating military-themed domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **139,538 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **143,177 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 139,538 domains · **Median ask:** $256.73 · **High-demand under $2,500:** 511
+**Public extract:** 1,000 rows · **Live catalog:** 143,177 domains · **Median ask:** $252.03 · **High-demand under $2,500:** 483
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/military`
@@ -25,7 +25,7 @@ This is a curated set of one-word domain names tied to the military keyword, spa
 <p align="center">
   <a href="https://unique.domains/domains/sector/military?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./military.csv">CSV</a> / <a href="./military.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
 | military.stream  | premium   | $13,000   | $130          | high           | low    | 8      | namecheap                    |
 | army.ac          | available | $28.98    | $76.98        | high           | low    | 4      | namecheap                    |
-| combat.vip       | resell    | $4.99     | $19.49        | high           | low    | 6      | Spaceship, Inc.              |
-| army.agency      | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                     |
-| army.apartments  | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                     |
 | defense.fit      | resell    | $2.99     | —             | high           | low    | 7      | name.com                     |
-| army.art         | premium   | $3,450    | $83.30        | high           | low    | 4      | namesilo                     |
-| army.archi       | available | $19.99    | $103.99       | high           | low    | 4      | namesilo                     |
+| army.adult       | premium   | $322.40   | $322.40       | high           | low    | 4      | namecheap                    |
+| army.apartments  | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                     |
 | military.bio     | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc                  |
+| army.agency      | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                     |
+| army.archi       | available | $19.99    | $103.99       | high           | low    | 4      | namesilo                     |
+| military.coupons | resell    | $78.54    | $78.54        | high           | low    | 8      | Dynadot Inc                  |
+| army.art         | premium   | $3,450    | $83.30        | high           | low    | 4      | namesilo                     |
+| army.barcelona   | available | $38.98    | $38.98        | high           | low    | 4      | namecheap                    |
+| military.la      | resell    | $2,309.78 | —             | high           | low    | 8      | .LA Founders Premium Program |
 | army.associates  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                     |
 | army.best        | available | $2.35     | $22.99        | high           | low    | 4      | namesilo                     |
-| military.coupons | resell    | $78.54    | $78.54        | high           | low    | 8      | Dynadot Inc                  |
+| soldiers.pw      | resell    | $3.99     | $24.49        | medium         | low    | 8      | namesilo                     |
 | army.attorney    | premium   | $3,250    | $3,250        | high           | low    | 4      | namecheap                    |
 | army.bid         | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                     |
-| military.la      | resell    | $2,309.78 | —             | high           | low    | 8      | .LA Founders Premium Program |
-| army.audio       | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap                    |
-| army.blue        | available | $19.99    | $24.99        | high           | low    | 4      | namesilo                     |
 | army.asia        | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH               |
 | army.band        | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                    |
-| army.broker      | available | $11.98    | $47.98        | high           | low    | 4      | namecheap                    |
+| army.bingo       | available | $51.98    | $68.98        | high           | low    | 4      | namecheap                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 139,538 live domains                                 |
+| 1,000-row public sample | 143,177 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 511 high-demand names under $2,500                   |
+| Basic exported fields   | 483 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/military?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_military_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
