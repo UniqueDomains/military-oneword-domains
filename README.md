@@ -1,10 +1,10 @@
-# One-Word Military Domain Names (144,085)
+# One-Word Military Domain Names (147,239)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-144%2C085%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-147%2C239%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word domain names tied to the military keyword, spanning 506+ TLDs with a median ask of $728. Updated daily, it covers a wide range of extensions beyond .com, giving investors and founders concrete pricing signals for evaluating military-themed domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **144,085 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **147,239 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 144,085 domains · **Median ask:** $250.72 · **High-demand under $2,500:** 480
+**Public extract:** 1,000 rows · **Live catalog:** 147,239 domains · **Median ask:** $246.99 · **High-demand under $2,500:** 490
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/sector/military`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | military.stream  | premium   | $13,000   | $130          | high           | low    | 8      | namecheap                    |
 | army.ac          | available | $28.98    | $76.98        | high           | low    | 4      | namecheap                    |
 | defense.fit      | resell    | $2.99     | —             | high           | low    | 7      | name.com                     |
-| army.adult       | premium   | $322.40   | $322.40       | high           | low    | 4      | namecheap                    |
-| army.apartments  | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                     |
+| army.accountant  | premium   | $3,450    | $416          | high           | low    | 4      | namesilo                     |
+| army.accountants | available | $122.98   | $145.98       | high           | low    | 4      | namecheap                    |
 | military.bio     | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc                  |
 | army.agency      | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                     |
-| army.archi       | available | $19.99    | $103.99       | high           | low    | 4      | namesilo                     |
+| army.actor       | available | $16.99    | $44.49        | high           | low    | 4      | namesilo                     |
 | military.coupons | resell    | $78.54    | $78.54        | high           | low    | 8      | Dynadot Inc                  |
 | army.art         | premium   | $3,450    | $83.30        | high           | low    | 4      | namesilo                     |
-| army.barcelona   | available | $38.98    | $38.98        | high           | low    | 4      | namecheap                    |
+| army.berlin      | available | $79.98    | $89.98        | high           | low    | 4      | namecheap                    |
 | military.la      | resell    | $2,309.78 | —             | high           | low    | 8      | .LA Founders Premium Program |
-| army.associates  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                     |
-| army.best        | available | $2.35     | $22.99        | high           | low    | 4      | namesilo                     |
-| soldiers.pw      | resell    | $3.99     | $24.49        | medium         | low    | 8      | namesilo                     |
 | army.attorney    | premium   | $3,250    | $3,250        | high           | low    | 4      | namecheap                    |
+| army.best        | available | $2.35     | $22.99        | high           | low    | 4      | namesilo                     |
+| army.bio         | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 31            |
+| army.audio       | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap                    |
 | army.bid         | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                     |
-| army.asia        | resell    | —         | —             | high           | low    | 4      | InterNetX GmbH               |
-| army.band        | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                    |
-| army.bingo       | available | $51.98    | $68.98        | high           | low    | 4      | namecheap                    |
+| army.bot         | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc               |
+| army.bargains    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                     |
+| army.builders    | available | $35.99    | $35.99        | high           | low    | 4      | namesilo                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 144,085 live domains                                 |
+| 1,000-row public sample | 147,239 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 480 high-demand names under $2,500                   |
+| Basic exported fields   | 490 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Military Domain Names*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Military Domain Names*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
