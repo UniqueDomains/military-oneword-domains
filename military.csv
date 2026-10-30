@@ -1,10 +1,15 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 8c4fc9c2-e518-4898-9aae-9f16ccd7b398,military.navy,premium,128.7,128.7,high,low,8,namecheap,,,25/09/2026 20:05
 ca6f3870-8c7f-4ec0-9506-ed92814e6d7e,military.airforce,premium,1040,1040,high,low,8,namecheap,,,25/09/2026 20:05
+20faa97f-9aef-476d-a863-cd85b5d25cbe,military.protection,available,2070,2950,high,low,8,namecheap,,,25/09/2026 20:05
+12aee036-122b-46c3-beb8-37775163151c,military.site,available,,,high,low,8,,,,17/10/2026 09:42
 6d6d521a-ac37-4665-92c3-9f55af4af4b7,military.management,premium,520,520,high,low,8,namecheap,,,25/09/2026 20:05
 e1c68c4c-a33e-4fde-9331-c8f9929b90de,military.juegos,available,368.98,478.98,high,low,8,namecheap,,,25/09/2026 20:05
+b034c359-fa22-42db-a897-19dc940de7ea,military.condos,available,61.98,72.98,high,low,8,namecheap,,,25/09/2026 20:05
+a9007cdd-caad-4dee-bfa9-e58ab8a62c42,military.cfd,premium,74.75,149.5,high,low,8,namecheap,,,25/09/2026 20:05
 9144aa09-4427-4926-95de-9e7d500ac901,military.expert,premium,520,520,high,low,8,namecheap,,,25/09/2026 20:05
 6ab3178c-8aeb-44bb-ab46-96a3cc6fbf56,military.catering,available,40.98,48.98,high,low,8,namecheap,,,25/09/2026 20:05
+24f4b11d-884b-46b9-90c3-aeeeddfdd6d5,military.forex,available,11.98,133.98,high,low,8,namecheap,,,25/09/2026 20:05
 8f80242e-6d97-401d-9022-f49556daa068,military.vacations,available,40.98,49.98,high,low,8,namecheap,,,25/09/2026 20:05
 0a8d67ff-ddc0-4257-b509-b36516580b6a,military.ac,available,28.98,76.98,high,low,8,namecheap,,,25/09/2026 20:05
 71e53af3-b82d-4b98-812c-cbbde050c0d7,military.run,resell,,,high,low,8,"Spaceship, Inc.",17/07/2026 13:11,17/07/2027 13:11,26/09/2026 07:33
@@ -299,7 +304,6 @@ f8e7ea2b-66c1-4db8-ba3b-c606ce053cca,military.camp,resell,,,high,low,8,Dynadot I
 7e7c34c0-31d9-4b14-a27e-a160fb522d74,military.country,available,2298,2450,high,low,8,namecheap,,,25/09/2026 20:05
 c1311161-e253-480c-9272-51ef623971f0,military.kim,available,5.98,32.98,high,low,8,namecheap,,,25/09/2026 20:05
 32c9abda-1326-4e47-935a-ab43cf384038,military.ryukyu,available,17.98,22.98,high,low,8,namecheap,,,25/09/2026 20:05
-20faa97f-9aef-476d-a863-cd85b5d25cbe,military.protection,available,2070,2950,high,low,8,namecheap,,,25/09/2026 20:05
 798ed218-5996-456e-9686-965c3a2392d4,military.in,resell,,,high,low,8,NAMECHEAP,16/02/2005 06:58,16/02/2027 06:58,26/09/2026 07:33
 4b699e43-ff8b-4f9b-a81a-5b96a523655a,military.viajes,available,43.98,57.98,high,low,8,namecheap,,,25/09/2026 20:05
 3814946d-3f30-402c-9750-3f9f61184f27,military.gay,premium,325,325,high,low,8,namecheap,,,25/09/2026 20:05
@@ -343,30 +347,42 @@ d5d3fd13-955e-488e-8501-eb930d90ee75,military.shop,premium,1300,1300,high,low,8,
 35e23a7c-46a1-4be7-9d44-467819297a1a,military.tires,available,87.98,110.98,high,low,8,namecheap,,,25/09/2026 20:05
 614e2537-1a2f-4649-8271-76710625d9a9,military.tel,available,10.98,15.98,high,low,8,namecheap,,,25/09/2026 20:05
 5708a98c-4d34-4d05-9b4f-03a620e8836c,military.dating,premium,85.8,85.8,high,low,8,namecheap,,,25/09/2026 20:05
-12aee036-122b-46c3-beb8-37775163151c,military.site,available,,,high,low,8,,,,17/10/2026 09:42
 9d23be7a-46ae-4614-a74f-df65e85641a9,military.name,available,8.98,9.98,high,low,8,namecheap,,,25/09/2026 20:05
 7aee3748-8057-475d-98a9-a07f2681fcce,military.link,premium,975,975,high,low,8,namecheap,,,25/09/2026 20:05
 acf622ab-db80-494e-82eb-c4ca739c3cef,military.lol,premium,845,845,high,low,8,namecheap,,,25/09/2026 20:05
 6f073d48-3be2-4db3-b8f3-305958cc22ab,military.associates,premium,85.8,85.8,high,low,8,namecheap,,,25/09/2026 20:05
 9937bdde-e79e-40df-acb4-0b81bae9db8b,military.schule,available,29.98,32.98,high,low,8,namecheap,,,25/09/2026 20:05
 56300431-b1b3-4450-8dcb-5cd795f1afa3,military.republican,available,5.98,43.98,high,low,8,namecheap,,,25/09/2026 20:05
-b034c359-fa22-42db-a897-19dc940de7ea,military.condos,available,61.98,72.98,high,low,8,namecheap,,,25/09/2026 20:05
 c87f7583-8300-4cf3-9ebe-88d7531d221c,military.moe,available,14.98,17.88,high,low,8,namecheap,,,25/09/2026 20:05
+4f93dd47-7726-42c9-812a-50d788ea2ee4,army.vana,available,2298,2498,high,low,4,namecheap,,,20/09/2026 07:50
 aea4a1af-6029-4d09-8b20-4f6d71993665,army.ltda,premium,56.64,33.04,high,low,4,namesilo,,,20/09/2026 07:50
-a9007cdd-caad-4dee-bfa9-e58ab8a62c42,military.cfd,premium,74.75,149.5,high,low,8,namecheap,,,25/09/2026 20:05
+adc00e5a-1cbb-48ae-92ea-57e9ad451f0a,army.network,resell,,,high,low,4,Dynadot Inc,20/06/2026 19:17,20/06/2027 19:17,26/09/2026 04:01
 468b4b7e-4852-493e-a5d4-cd87d67e52a6,military.organic,available,19.99,,high,low,8,name.com,,,25/09/2026 20:05
 be5f1d78-d3f0-4168-a0ae-fd1fd97f8a0a,military.miami,available,24.98,30.98,high,low,8,namecheap,,,25/09/2026 20:05
+d923f3bb-62b7-42e5-b133-64b3ec961338,army.rentals,premium,242,242,high,low,4,namesilo,,,20/09/2026 07:50
+66f73623-8bf1-4015-beea-bb741dce44ff,army.realty,available,109.99,299,high,low,4,namesilo,,,20/09/2026 07:50
 f16be211-00eb-4839-ba15-c9ee6ac9b6a1,army.xyz,resell,,,high,low,4,Dynadot Inc,29/06/2019 11:27,29/06/2030 23:59,26/09/2026 04:01
-24f4b11d-884b-46b9-90c3-aeeeddfdd6d5,military.forex,available,11.98,133.98,high,low,8,namecheap,,,25/09/2026 20:05
+6b74b261-71ed-4526-b481-151b59ff7e16,army.gallery,premium,128.7,128.7,high,low,4,namecheap,,,20/09/2026 07:50
+6edde49e-cb88-487d-9e7f-59bc140ad590,army.bot,resell,,,high,low,4,"NameCheap, Inc",02/11/2023 00:14,02/11/2027 00:14,03/10/2026 06:47
+327082bf-c9fd-4206-9569-e876c569c72a,army.porn,premium,322.4,322.4,high,low,4,namecheap,,,20/09/2026 07:50
 550bdd03-8883-4240-a234-5974dfe0e9e4,defense.law,resell,,,high,low,7,,,,29/09/2026 13:31
 79df2f55-8082-419e-8ab7-93829f1884d7,army.company,premium,242,242,high,low,4,namesilo,,,20/09/2026 07:50
+2ed85d29-ccd9-4111-b9eb-97720c4843d8,army.parts,premium,118.8,118.8,high,low,4,namesilo,,,20/09/2026 07:50
+fa795a54-d044-41fa-8485-e1c59bd27c50,army.vegas,available,12.99,43.99,high,low,4,namesilo,,,20/09/2026 07:50
+95f8eae6-2d81-4efd-a348-2f3ddb5085ec,army.date,premium,384,53.92,high,low,4,namesilo,,,20/09/2026 07:50
+69fb0f69-7ff8-4ed0-a161-79270890aba4,army.talk,premium,302.5,302.5,high,low,4,namesilo,,,20/09/2026 07:50
 7f2aed43-d015-40fd-a312-3a932f29fa82,army.llc,premium,640,640,high,low,4,namesilo,,,20/09/2026 07:50
 b33809cf-e94f-41ad-bbcf-35e2f42b83bf,army.travel,available,23.98,186.98,high,low,4,namecheap,,,20/09/2026 07:50
 c81e350a-32a8-492f-8ed0-3a9d319c866a,army.consulting,premium,118.8,118.8,high,low,4,namesilo,,,20/09/2026 07:50
+1f590d1c-b685-451c-956e-e2405bbeb135,army.furniture,available,23.98,127.98,high,low,4,namecheap,,,20/09/2026 07:50
+b270d242-a5bc-4c4f-8081-e6fbc8737ff2,army.sexy,premium,13800,13800,high,low,4,namesilo,,,20/09/2026 07:50
+3a18dc97-3fb3-451a-b007-c7af677fe559,army.photo,premium,116,116,high,low,4,namesilo,,,20/09/2026 07:50
+da08646b-cca1-478b-91a2-6948b2203fd3,army.exposed,premium,242,242,high,low,4,namesilo,,,20/09/2026 07:50
 64b822d0-e045-4e24-8c0d-29efab594208,army.church,available,14.99,58.99,high,low,4,namesilo,,,20/09/2026 07:50
 0401b2f2-09cc-4145-a319-18905cb6c09a,army.deals,available,39.99,39.99,high,low,4,namesilo,,,20/09/2026 07:50
 59f9e8e5-8b73-44c1-89bf-98b7b81fa9d6,army.srl,premium,54.28,30.68,high,low,4,namesilo,,,20/09/2026 07:50
 ae116d77-c9f7-4261-8b28-d329c1a8a65f,army.how,premium,122.2,122.2,high,low,4,namecheap,,,20/09/2026 07:50
+30a17183-d902-413b-9941-60bde008b0dc,defense.cc,resell,,,high,low,7,Dynadot Inc,26/12/2022 09:01,26/12/2026 09:01,29/09/2026 13:31
 6ee637ce-f44e-441e-9d62-6b26fffdad6e,army.to,resell,,,high,low,4,Tonic,28/01/2024 02:27,01/08/2027 00:00,26/09/2026 04:01
 6a5c3e46-2abd-4e58-b7e9-4829073a6ae7,army.tienda,available,59.99,59.99,high,low,4,namesilo,,,20/09/2026 07:50
 83932a19-016f-4a31-8e53-1085516d452d,army.wtf,premium,128.7,128.7,high,low,4,namecheap,,,20/09/2026 07:50
@@ -392,10 +408,12 @@ f2314141-dfa2-4f4d-ac08-01a10ec16146,army.ac,available,28.98,76.98,high,low,4,na
 bac40e77-cbfc-4841-b91c-9ffa8a226a59,army.page,premium,638.72,638.72,high,low,4,namesilo,,,20/09/2026 07:50
 411e7202-05f2-4e78-be19-a2f7088258e4,army.io,resell,,,high,low,4,Dynadot Inc,12/08/2013 14:46,12/08/2027 14:46,26/09/2026 04:01
 f3d53e6c-f08a-402f-9435-e7906c39c472,defense.agency,premium,242,242,high,low,7,namesilo,,,29/09/2026 13:31
+744e5eb2-19a4-429d-a6db-a4958208dfcb,defense.restaurant,available,20.99,64.99,high,low,7,namesilo,,,29/09/2026 13:31
 06d9a64c-89ea-4791-ba0b-8e69e7c7a443,army.club,premium,1107,17.7,high,low,4,namesilo,,,20/09/2026 07:50
 5e4fcb8f-c53d-404b-a02a-550aa2e06d06,army.gifts,premium,260,260,high,low,4,namecheap,,,20/09/2026 07:50
 549fc7de-2fd4-4dfa-97dd-c399ea007347,army.forsale,premium,78.54,78.54,high,low,4,namesilo,,,20/09/2026 07:50
 e74e06b3-1a7b-4d3c-862b-db05a2b0eae6,army.audio,premium,2600,2600,high,low,4,namecheap,,,20/09/2026 07:50
+c79b4aa6-0b56-463d-907d-12af9590eeca,defense.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 13:31
 d24265ad-0de6-4ec2-828c-8a604a9a7367,army.catering,premium,78.54,78.54,high,low,4,namesilo,,,20/09/2026 07:50
 334fa0d1-7d6d-4349-8859-e255fd6841f6,defense.blog,premium,640,2660,high,low,7,namesilo,,,29/09/2026 13:31
 f7f4f815-90c0-413f-b444-8c8e22555d21,army.gmbh,available,45.99,45.99,high,low,4,namesilo,,,20/09/2026 07:50
@@ -579,6 +597,8 @@ a75bfaa1-4f94-4195-a798-6b1c7c1b9055,defense.foo,premium,323.7,323.7,high,low,7,
 6ba1e6f6-70ae-4413-b102-198118e2056a,army.condos,premium,118.8,118.8,high,low,4,namesilo,,,20/09/2026 07:50
 d8bbeffa-79d4-4532-83c9-3e4e07189e89,defense.tickets,available,326.21,388.33,high,low,7,spaceship,,,29/09/2026 13:31
 4593eee0-9983-4c2c-af50-ba683401bb9b,defense.boats,available,1.99,14.45,high,low,7,dynadot,,,29/09/2026 13:31
+79513e39-2702-4789-ae44-1cdbfce76ab5,strategy.theatre,available,465.95,500.18,high,high,8,spaceship,,,28/10/2026 21:55
+ad279455-4acf-425e-8cda-84ea21175253,strategy.restaurant,available,10.55,51.95,high,high,8,spaceship,,,28/10/2026 21:55
 648e10f0-b0c2-4716-9440-6780e107ae25,defense.storage,available,509.99,529.99,high,low,7,namesilo,,,29/09/2026 13:31
 5e280f84-240a-4e57-b1c2-188cd07ee0e5,army.tattoo,premium,116,116,high,low,4,namesilo,,,20/09/2026 07:50
 fb01a61f-877c-47b0-b461-6fb56a947ddc,defense.today,resell,,,high,low,7,"Sav.com, LLC - 3",23/03/2025 15:15,23/03/2027 15:15,29/09/2026 13:31
@@ -586,6 +606,8 @@ d9e8501a-19f4-4cbf-a131-888b8e45a217,army.dating,premium,260,260,high,low,4,name
 56da2ea1-c959-4dca-958a-922ff0282f0a,defense.party,available,,,high,low,7,,,,11/10/2026 10:06
 21d0b7f5-9dbb-4083-a600-a5bee836e2bc,defense.creditcard,available,156.98,168.98,high,low,7,namecheap,,,29/09/2026 13:31
 41be8a50-f6a3-4181-8e18-bfe31aa5b36f,army.kim,available,12.99,23.49,high,low,4,namesilo,,,20/09/2026 07:50
+1f7ffc9e-0eb1-487e-9a8c-218fc344a683,strategy.diy,premium,640,640,high,high,8,namesilo,,,28/10/2026 21:55
+2f427a3a-2960-4ff0-abba-40d73711bde6,strategy.fishing,available,32.49,32.49,high,high,8,namesilo,,,28/10/2026 21:55
 d34f3536-5686-4e21-b8cb-5284b86b4c82,strategy.cars,available,1999.99,2199,high,high,8,namesilo,,,28/10/2026 21:55
 6b9b4d93-8ccd-42b1-a0cd-13c7f5839875,defense.lease,available,58.98,73.98,high,low,7,namecheap,,,29/09/2026 13:31
 9aa73a38-c73e-4826-8bbe-a3cd719b0180,defense.tube,available,,,high,low,7,,,,11/10/2026 10:06
@@ -627,6 +649,7 @@ dab97290-00fe-41d5-9de4-cd799bc0ef99,strategy.dealer,premium,4278,2660,high,high
 0d83751e-49b9-4481-80dc-cd48315cba55,defense.deals,available,39.99,39.99,high,low,7,namesilo,,,29/09/2026 13:31
 5798d41c-2f9f-468b-a121-767b025b4bde,army.gift,premium,153.6,153.6,high,low,4,namesilo,,,20/09/2026 07:50
 bbcfcab4-ec6a-47ad-b7d2-78bb4164318d,defense.ryukyu,available,17.98,22.98,high,low,7,namecheap,,,29/09/2026 13:31
+009f9620-9c26-41bc-a616-5e46081649e8,soldier.desi,available,19.98,22.98,high,low,7,namecheap,,,30/09/2026 11:28
 43cb0013-a5d3-430b-a65f-d22eea50b616,defense.surf,available,2.19,32.49,high,low,7,namesilo,,,29/09/2026 13:31
 541f9ef1-16f5-4d19-873c-a5bacc474f9b,army.team,resell,,,high,low,4,"Spaceship, Inc.",08/03/2026 22:17,08/03/2027 22:17,26/09/2026 04:01
 5423a218-0434-48b3-ab60-8f17fbe2aad0,army.place,available,22.49,22.49,high,low,4,namesilo,,,20/09/2026 07:50
@@ -645,6 +668,7 @@ eb4fc00b-fb06-41d0-bbd1-77a956c52a8c,army.investments,available,12.99,129.99,hig
 93f66323-4c4e-4477-a066-ed9d2aefa4ab,defense.reviews,premium,118.8,118.8,high,low,7,namesilo,,,29/09/2026 13:31
 a4ecaa92-e405-4268-bf7b-508b7b3c850d,defense.futbol,available,7.49,17.99,high,low,7,namesilo,,,29/09/2026 13:31
 efa4e763-45c9-4107-a47f-9afb8861f9a8,army.lighting,available,23.99,23.99,high,low,4,namesilo,,,20/09/2026 07:50
+4c912078-227f-4e4c-972d-3930ee556ff7,navy.industries,premium,102.67,102.67,high,low,4,spaceship,,,29/09/2026 13:12
 443b51e6-345f-4a97-ac21-768a9dcc3de1,strategy.clothing,available,25.2,25.2,high,high,8,cloudflare,,,28/10/2026 21:55
 44ccdc10-100a-4119-9a1f-e140ac465c65,defense.bingo,available,41.2,41.2,high,low,7,cloudflare,,,29/09/2026 13:31
 9cc56dd3-8954-4a1d-a34f-6d69a20b931f,strategy.video,premium,242,242,high,high,8,namesilo,,,28/10/2026 21:55
@@ -656,6 +680,7 @@ ad0140cf-65c7-4569-bdae-b66fa7b50a84,army.auction,available,36.99,36.99,high,low
 b93a2614-813a-4bba-9de7-54381332d356,defense.plus,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",24/09/2019 22:40,24/09/2027 22:40,29/09/2026 13:31
 13ab9bc4-d437-416a-811f-1f1f92529b27,soldiers.ninja,available,15.99,30.99,high,low,8,namesilo,,,03/10/2026 01:32
 07efefd3-e33f-4e91-b669-e55cdb7e07dd,strategy.immobilien,available,37.99,37.99,high,high,8,namesilo,,,28/10/2026 21:55
+9d3b502a-a8c9-455e-b50d-204c5ebec10b,navy.surgery,premium,54.36,108.6,high,low,4,porkbun,,,29/09/2026 13:12
 8ed9786d-4a86-4234-b220-d0026258a68a,navy.solutions,available,7.96,25.04,high,low,4,spaceship,,,29/09/2026 13:12
 a25956b1-687b-46b7-ab1a-b6b4c810c1b9,regiment.airforce,available,85.82,85.82,high,low,8,dynadot,,,28/09/2026 20:17
 3a9679a3-12e2-4c8c-a73e-252f5e750ebd,army.homes,premium,2660,2660,high,low,4,namesilo,,,20/09/2026 07:50
@@ -668,46 +693,64 @@ ba86dcf7-95e4-4bcd-a715-333aa99500f8,defense.computer,available,23.99,38.99,high
 543f0848-a4b0-4102-86b7-a83992807c22,defense.theater,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 13:31
 8eca33db-aac4-465f-a6eb-149658dd458f,army.limited,available,36.99,36.99,high,low,4,namesilo,,,20/09/2026 07:50
 1cd9795e-0cc3-49b4-8d14-574b1d9462a1,defense.rip,available,23.49,23.49,high,low,7,namesilo,,,29/09/2026 13:31
+bb25f72d-0ffb-457c-b186-cc52c05368ee,tactics.army,premium,71.4,71.4,high,low,7,namesilo,,,12/10/2026 20:49
 d34ad61e-df1a-4aff-b3d1-416f261c0e6b,strategy.trading,premium,414.2,414.2,high,high,8,spaceship,,,28/10/2026 21:55
 d7e80a76-6b0c-416d-a517-46703299b56c,security.navy,available,85.02,85.02,high,high,8,dynadot,,,28/10/2026 13:20
+f94a6865-6636-466d-83fc-10e9ce2065a3,soldiers.lawyer,available,62.99,62.99,high,low,8,namesilo,,,03/10/2026 01:32
 0fc8e1ff-9f12-4ef3-96ac-207069aff10e,army.hosting,premium,1729,1729,high,low,4,namesilo,,,20/09/2026 07:50
 a6ea1a20-cd1d-487e-9422-13a0b759fb62,strategy.giving,available,6.41,22.39,high,high,8,spaceship,,,28/10/2026 21:55
 680c6a75-8a1b-42dd-a9aa-f78247a813aa,army.dad,premium,648.7,648.7,high,low,4,namecheap,,,20/09/2026 07:50
+06b8d659-ca6b-4371-b501-faeaa57aebe7,navy.kaufen,available,5.57,24.83,high,low,4,dynadot,,,29/09/2026 13:12
 8963c00c-62ff-44fa-a7fd-b87ee0a1001e,defense.archi,available,19.99,103.99,high,low,7,namesilo,,,29/09/2026 13:31
 94c804ae-a562-494e-b91a-588f02972a1c,navy.football,premium,118.8,118.8,high,low,4,namesilo,,,29/09/2026 13:12
 a9c14f43-c9fa-40b5-a747-850e5894fe86,army.dental,available,78.99,78.99,high,low,4,namesilo,,,20/09/2026 07:50
+81a95185-2816-4339-af57-322d701dffd3,navy.black,available,15.73,51.95,high,low,4,spaceship,,,29/09/2026 13:12
 fbc02500-cdf6-459c-affd-9382d25e9d63,army.prof,premium,843.7,843.7,high,low,4,namecheap,,,20/09/2026 07:50
 f5648b86-a2c9-4210-93bf-118b9ed48afd,army.ventures,available,20.99,59.99,high,low,4,namesilo,,,20/09/2026 07:50
 04085d8d-cd67-4dc0-a3ec-5a099e0dde71,defense.boston,premium,52,19.5,high,low,7,namecheap,,,29/09/2026 13:31
+2124c7ba-c051-45af-b8a3-30b11bdd4250,navy.forum,premium,103.7,103.7,high,low,4,spaceship,,,29/09/2026 13:12
 b0d890d1-c19f-4eb0-ba79-6717d9a0f52c,army.sarl,available,6.99,6.99,high,low,4,namesilo,,,20/09/2026 07:50
 0f19ffa9-954f-4eda-ab7b-f8645137d451,army.app,premium,1038.7,1038.7,high,low,4,namecheap,,,20/09/2026 07:50
 13fad7d9-7e4c-481c-9d52-a07b0d61b3fe,defense.one,premium,640,640,high,low,7,namesilo,,,29/09/2026 13:31
 c0c017e5-dfcb-4a5e-a62a-55da3ccb5585,navy.futbol,available,7.49,17.99,high,low,4,namesilo,,,29/09/2026 13:12
+5ef828f2-4e07-4b33-af33-12305c976342,navy.buzz,available,,,high,low,4,,,,18/10/2026 09:29
 a59c83ee-1831-4482-a920-1208075575d3,army.ink,premium,325,325,high,low,4,namecheap,,,20/09/2026 07:50
 9b939992-3793-4e12-80f8-4f61f0b4e240,defense.coffee,available,16.99,42.99,high,low,7,namesilo,,,29/09/2026 13:31
+4fbc4601-00f3-43ed-bb61-4398d6de0ba2,navy.discount,premium,78.54,78.54,high,low,4,namesilo,,,29/09/2026 13:12
+00ddbd6d-5da1-4ad1-bad0-fb69eff9cd2b,soldiers.im,available,4.18,6.73,high,low,8,spaceship,,,03/10/2026 01:32
 c3e01faf-0228-4f5f-9350-a7493b017d49,defense.fashion,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 13:31
 a004c604-c403-4c6a-844a-eb71b9068b9d,army.salon,available,57.99,57.99,high,low,4,namesilo,,,20/09/2026 07:50
 940fc330-ce53-45b5-b3b8-818fb5f0f696,army.legal,available,71.99,71.99,high,low,4,namesilo,,,20/09/2026 07:50
+0d546163-72a5-4180-9a87-15356db285ab,navy.vegas,available,12.99,43.99,high,low,4,namesilo,,,29/09/2026 13:12
+5a7e96d0-6454-4542-b70b-9bc0730ece01,soldiers.science,available,11.99,11.99,high,low,8,namesilo,,,03/10/2026 01:32
 8eb3acc6-b5d6-473e-8e40-3564b1b87ac2,strategy.game,available,309.99,429.99,high,high,8,namesilo,,,28/10/2026 21:55
 991d6156-5103-4d62-a8b6-c1317aef7470,strategy.llc,premium,2660,2660,high,high,8,namesilo,,,28/10/2026 21:55
 7373a72d-51e4-432e-ab75-fb177bb70318,defense.desi,available,19.98,22.98,high,low,7,namecheap,,,29/09/2026 13:31
 d9d06db8-0742-4994-b14c-3c8e8768aba9,defense.games,premium,1000.5,1300,high,low,7,unstoppable,,,29/09/2026 13:31
+d8b87466-6976-431e-8e20-0a7f8f69e2ae,navy.dentist,premium,242,242,high,low,4,namesilo,,,29/09/2026 13:12
+5f40c0c9-3802-465f-93a3-6668445ceefc,navy.theater,available,65.99,65.99,high,low,4,namesilo,,,29/09/2026 13:12
+3d351630-9e90-4acf-9a76-ca78a9f9177b,soldiers.you,premium,51.95,51.95,high,low,8,spaceship,,,03/10/2026 01:32
 b64a87db-c28a-47de-966b-84ba2447eae8,navy.glass,available,76.98,99.98,high,low,4,namecheap,,,29/09/2026 13:12
 3ff91405-0e95-4ec7-9928-edb6fa400b61,defense.auto,available,1999.99,2199,high,low,7,namesilo,,,29/09/2026 13:31
 42525c34-9b14-44b5-bd24-a1debcc232a1,navy.hamburg,available,69.98,73.98,high,low,4,namecheap,,,29/09/2026 13:12
 f27efdf4-b538-4f7e-bfb3-de706f6a0be8,navy.rentals,premium,242,242,high,low,4,namesilo,,,29/09/2026 13:12
 5d91732f-6552-4203-aff3-89d87ae3457f,army.fishing,premium,96,29.5,high,low,4,namesilo,,,20/09/2026 07:50
+33700401-d63b-4e4c-9a22-99f5c9593933,soldiers.fishing,available,26.08,26.08,high,low,8,spaceship,,,03/10/2026 01:32
+341ecfae-dc21-408a-813f-4c4246659c9a,soldiers.community,available,36.43,36.43,high,low,8,spaceship,,,03/10/2026 01:32
 8b04c068-d134-4d80-9de7-e182badc0e13,army.pics,premium,2660,2660,high,low,4,namesilo,,,20/09/2026 07:50
 1c87f40a-10e1-4948-b75a-65f3cc7f5006,navy.accountant,premium,448,53.92,high,low,4,namesilo,,,29/09/2026 13:12
 b375d566-b75b-43d0-958e-b2da298c28ea,navy.bet,resell,,,high,low,4,Porkbun LLC,04/07/2025 10:45,04/07/2027 10:45,29/09/2026 13:12
 82b22094-7ebd-4331-89fc-707e7b15c3c6,defense.yoga,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 13:31
 7790a85b-8836-45ed-8618-c5615e5a8e77,defense.hosting,available,279.65,341.75,high,low,7,spaceship,,,29/09/2026 13:31
+d72102c0-12f4-4986-9870-6c139e7468d7,soldiers.pictures,available,12.62,12.62,high,low,8,spaceship,,,03/10/2026 01:32
 f0b5083e-3e99-4ab0-8657-b55af2fc4f61,strategy.barcelona,available,25.04,25.04,high,high,8,spaceship,,,28/10/2026 21:55
+10f279b8-ea1b-4084-8b2b-6bbd7431faad,soldiers.berlin,available,79.98,89.98,high,low,8,namecheap,,,03/10/2026 01:32
 a01d1b05-7053-47c9-9ee1-c819e6703164,soldiers.company,premium,207.2,207.2,high,low,8,spaceship,,,03/10/2026 01:32
 5f0c3362-3b7e-4753-9bbc-58292e9f37e3,defense.barcelona,available,38.98,38.98,high,low,7,namecheap,,,29/09/2026 13:31
 aa982848-1de0-4bf7-8bd9-d4346831119b,combat.ai,resell,,,high,low,6,101domain GRS Limited,16/12/2017 00:28,25/03/2028 00:28,26/09/2026 05:07
 cc63c978-91cf-4b3f-8677-be7669a9efa8,defense.style,available,16.99,38.99,high,low,7,namesilo,,,29/09/2026 13:31
 36b3bbcb-caf4-43a4-bd28-544e5c15027f,soldiers.net,resell,,,high,low,8,"NameSilo, LLC",19/01/2000 20:53,19/01/2027 20:53,03/10/2026 01:32
+f7c04cc9-0e56-44f3-87a5-c6a381c215d9,soldiers.buzz,available,1.08,26.08,high,low,8,spaceship,,,03/10/2026 01:32
 05085596-7953-4a17-b683-d64b7bb6f48b,forces.diet,available,104.99,114.99,high,low,6,namesilo,,,16/09/2026 15:45
 375f596d-5dd9-4a40-8cde-420b477eea08,security.locker,premium,32500,39,high,high,8,namecheap,,,28/10/2026 13:20
 efa649ae-485a-4c82-a5ac-02ac87ff9f8b,navy.hospital,available,47.3,47.3,high,low,4,dynadot,,,29/09/2026 13:12
@@ -717,51 +760,75 @@ d7e2d55b-e211-4f8c-8046-2c6f618dc214,defense.vin,available,6.64,49.44,high,low,7
 f4d211d1-ed03-4312-b97b-f0c6907142d1,navy.loan,premium,13800,116,high,low,4,namesilo,,,29/09/2026 13:12
 b9c4802a-7d94-4f8b-81e6-88eeb93d10f1,defense.cards,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 13:31
 fffe6c32-405f-4050-ba4f-b95240216a10,defense.review,premium,6900,116,high,low,7,namesilo,,,29/09/2026 13:31
+af112e01-a667-4e84-9b59-c8162deb70db,soldiers.dance,available,9.52,21.94,high,low,8,spaceship,,,03/10/2026 01:32
 9ebdaaf7-d606-4515-8ec6-a2b08774ad61,navy.yachts,available,1.99,17.29,high,low,4,namesilo,,,29/09/2026 13:12
 27ee00be-2f25-4953-9e29-dd4bc654ce9c,navy.now,premium,517.7,517.7,high,low,4,spaceship,,,29/09/2026 13:12
+5ae1a6e4-e66c-4f00-be1d-ff22b416a5b8,soldier.insure,available,72.99,72.99,high,low,7,namesilo,,,30/09/2026 11:28
 ccc6c72b-759d-4002-bfb0-52c90166a17d,defense.movie,available,36.43,279.65,high,low,7,spaceship,,,29/09/2026 13:31
+da4bc50e-afa9-48db-b4a4-8fe59b0a7de9,soldiers.deal,available,38.99,38.99,high,low,8,namesilo,,,03/10/2026 01:32
 308672d0-64cb-4808-90cd-641779f1cf97,strategy.healthcare,available,88.99,88.99,high,high,8,namesilo,,,28/10/2026 21:55
 a18d2859-4d4f-4212-873f-57906b21cf31,soldiers.gift,available,14.99,14.99,high,low,8,namesilo,,,03/10/2026 01:32
+a6ac5afd-ac0b-483e-afdb-f106897dea53,soldier.software,available,10.55,33.32,high,low,7,spaceship,,,30/09/2026 11:28
+932434a1-6a92-42c5-a78a-2d3ed43d9592,forces.srl,available,31.99,31.99,high,low,6,namesilo,,,16/09/2026 15:45
 b644c897-a6d4-4021-9931-e475b9e8b17f,army.quest,premium,2660,2660,high,low,4,namesilo,,,20/09/2026 07:50
 1034177a-6d14-4cd2-ac44-1007e0f05cf8,navy.direct,available,32.2,32.2,high,low,4,cloudflare,,,29/09/2026 13:12
 0f6be6ee-e2cf-40f0-9983-f520bf9fe17e,navy.miami,premium,5200,23.4,high,low,4,namecheap,,,29/09/2026 13:12
+07b56113-0abe-490f-b69f-47de81bca617,combat.luxury,available,49.99,,high,low,6,name.com,,,24/09/2026 18:08
 bf80c655-0ad0-4f6f-addf-786935ef25b2,army.domains,premium,512,512,high,low,4,namesilo,,,20/09/2026 07:50
 514ea0da-cc1d-4659-89a2-622ec20cfd65,navy.mobile,premium,310.7,310.7,high,low,4,spaceship,,,29/09/2026 13:12
 09d3374c-07ae-4b3a-affd-a60f311162f2,strategy.hockey,available,47.81,47.81,high,high,8,spaceship,,,28/10/2026 21:55
 25185f2f-d0c7-4522-802e-8e79af2886ec,warfare.navy,available,41.99,41.99,high,low,7,namesilo,,,30/09/2026 14:38
 f5afaa6d-693d-47c9-af3d-6e1fa9ae32f9,defense.properties,available,14.17,31.25,high,low,7,spaceship,,,29/09/2026 13:31
 8adf46a6-629b-48a7-98a7-36a545db17cc,strategy.yoga,available,32.49,32.49,high,high,8,namesilo,,,28/10/2026 21:55
+7a694ef4-86a8-4ea9-bd72-17d949e08c56,security.markets,premium,207.2,207.2,high,high,8,spaceship,,,28/10/2026 13:20
 e4f0a6b2-e1ce-452a-aa7d-f8863d787781,strategy.cruises,available,44.71,44.71,high,high,8,spaceship,,,28/10/2026 21:55
 d8985fbd-08fe-49d7-ab3e-b2675addcada,defense.property,available,,,high,low,7,,,,11/10/2026 10:06
 b7e95eaf-7c00-495e-ada1-f2bc71d8c19f,army.faith,premium,3450,116,high,low,4,namesilo,,,20/09/2026 07:50
+8dd643a3-20f8-4f36-8609-75cabf5a2c25,forces.house,available,19.99,44.49,high,low,6,namesilo,,,16/09/2026 15:45
+011ba919-f951-4c87-8912-cf5b43bcdaec,fleet.airforce,available,,,high,low,5,,,,13/10/2026 09:36
 5513bc15-8371-4302-b381-18f7c2a2667c,soldiers.gallery,available,22.2,22.2,high,low,8,cloudflare,,,03/10/2026 01:32
+d5cad735-6421-4d59-8e3f-baaef5ef9e01,soldier.link,premium,243.43,243.43,high,low,7,spaceship,,,30/09/2026 11:28
 8768d5a7-5dd9-4dd5-8191-3b1471f053da,soldiers.esq,premium,61.25,,high,low,8,name.com,,,03/10/2026 01:32
 b8573546-ef4b-400a-9f23-206bc7b1a50a,soldiers.democrat,available,25.2,25.2,high,low,8,cloudflare,,,03/10/2026 01:32
 903134cb-d9a5-48b6-b7a1-6286f9586a7c,navy.lighting,available,8.24,19.48,high,low,4,dynadot,,,29/09/2026 13:12
 06e72f1c-a295-416f-b7ca-28ebd004b0ac,navy.services,resell,,,high,low,4,"GoDaddy.com, LLC",09/02/2026 17:04,09/02/2027 17:04,29/09/2026 13:12
 78782b14-1442-4d8a-96cc-be38dd704d6e,forces.fm,available,88.99,88.99,high,low,6,namesilo,,,16/09/2026 15:45
+9883abc4-fa2d-4e0a-a76d-c13504b89eb5,soldier.rip,available,23.49,23.49,high,low,7,namesilo,,,30/09/2026 11:28
 65d87c7d-c6d2-424d-830c-25d7be70b443,army.auto,available,2070,2950,high,low,4,namecheap,,,20/09/2026 07:50
 4a932993-6838-41e4-b388-b398409be818,soldiers.training,available,11.99,34.46,high,low,8,dynadot,,,03/10/2026 01:32
 57bc8807-6547-4ab2-8edb-40e3c892fe36,navy.vc,resell,,,high,low,4,Atom.com Domains LLC,17/08/2020 00:10,17/08/2027 00:10,29/09/2026 13:12
 05b0027d-cc8b-4657-807a-f8c1224f7071,navy.top,premium,46.46,46.46,high,low,4,spaceship,,,29/09/2026 13:12
 eec87e8c-fdce-43f8-ae7a-1d25a95de439,army.rehab,available,36.99,36.99,high,low,4,namesilo,,,20/09/2026 07:50
 3dbf9fc1-eff7-4726-a3f3-878d7e83fe5a,army.futbol,available,5.98,21.98,high,low,4,namecheap,,,20/09/2026 07:50
+c9c085c6-c979-456b-8478-ffd7e5fcb210,forces.vote,available,34.99,90.99,high,low,6,namesilo,,,16/09/2026 15:45
+6b203fb8-f4fb-4573-9a18-312aad8a8b60,forces.gifts,available,38.48,47.48,high,low,6,namecheap,,,16/09/2026 15:45
+b6925425-bb98-444a-b85f-ba23e6e86ab8,combat.shop,premium,1300,1300,high,low,6,namecheap,,,24/09/2026 18:08
 71ce3a13-09b8-40f5-9a8b-ad5b228a4620,army.tools,premium,78.54,78.54,high,low,4,namesilo,,,20/09/2026 07:50
 793ac45d-15a4-4432-9b3f-0a5e6fcc73c5,defense.maison,available,57.99,57.99,high,low,7,namesilo,,,29/09/2026 13:31
 d80db4dc-0d73-4ae6-b071-4d02b3c95b4e,soldiers.sarl,available,6.98,8.98,high,low,8,namecheap,,,03/10/2026 01:32
+2a052a8c-11a7-446a-b897-bc80b4bb0b90,soldier.solar,available,51.95,51.95,high,low,7,spaceship,,,30/09/2026 11:28
+f5ab7e7e-dedb-4f73-bdb4-8ce3804c2a8c,forces.vodka,available,32.49,32.49,high,low,6,namesilo,,,16/09/2026 15:45
+150df91b-c002-4787-ae26-5f8a4d7542f5,combat.catering,available,40.98,48.98,high,low,6,namecheap,,,24/09/2026 18:08
 fdb4f498-6281-4380-8b7e-d42d44646e06,soldiers.living,available,5.49,39.99,high,low,8,namesilo,,,03/10/2026 01:32
+7be92eab-8c49-4de2-8fe9-fcbda4aa6976,soldier.city,resell,,,high,low,7,"DNSPod, Inc.",09/08/2024 17:01,09/08/2027 17:01,30/09/2026 11:28
 0c2dc0ee-f639-435c-aaca-82ba72c2d8e1,army.blackfriday,available,114.99,114.99,high,low,4,namesilo,,,20/09/2026 07:50
+5d381297-b3c5-485a-b76b-9f0b9970505c,soldier.gift,available,16.91,16.91,high,low,7,dynadot,,,30/09/2026 11:28
 b3166b3d-1c57-4ba3-8e97-fb22cc597572,defense.shop,premium,1250,,high,low,7,name.com,,,29/09/2026 13:31
+24b6b1ec-ee27-44b0-9514-1c84f81709bf,forces.town,available,6.98,47.48,high,low,6,namecheap,,,16/09/2026 15:45
 5bafdf45-8b64-40c2-ab6b-10c054f8daac,navy.gratis,available,23.99,23.99,high,low,4,namesilo,,,29/09/2026 13:12
 4bb8d101-aec9-42fd-9ee3-e488c14b13de,strategy.cleaning,available,60.23,60.23,high,high,8,spaceship,,,28/10/2026 21:55
+17e205b9-40f1-41a1-8639-36d6fa2011f5,battalion.holdings,available,64.99,64.99,high,low,9,namesilo,,,22/09/2026 14:24
 957cd108-7888-4868-9102-bb1b56646f55,strategy.holiday,available,51.95,51.95,high,high,8,spaceship,,,28/10/2026 21:55
 7ade026d-3505-4e59-a8da-52157330b9e1,strategy.auto,available,1999.99,2199,high,high,8,namesilo,,,28/10/2026 21:55
 995409c6-55c7-436b-837c-76f005c210d0,forces.navy,available,41.99,41.99,high,low,6,namesilo,,,16/09/2026 15:45
+7eb29b8d-eb08-4a95-90cf-05cac2717616,forces.mobile,premium,390,390,high,low,6,namecheap,,,16/09/2026 15:45
 4ccd776d-40da-425f-b3f0-f1284f43136a,army.courses,premium,242,242,high,low,4,namesilo,,,20/09/2026 07:50
+5422fe0a-117b-46e1-9b34-2bd01a698075,combat.yoga,available,33.98,45.98,high,low,6,namecheap,,,24/09/2026 18:08
 366187cd-d554-4397-87ac-5d4a5ca50f6b,soldiers.promo,available,14.49,24.99,high,low,8,namesilo,,,03/10/2026 01:32
 169a869e-2191-47b0-b15f-623cc572a59c,navy.supply,premium,82.5,,high,low,4,name.com,,,29/09/2026 13:12
 cde63afc-6b90-41ec-baa3-5d82f79946bb,army.house,available,19.99,44.49,high,low,4,namesilo,,,20/09/2026 07:50
 ab5ca0ad-4648-463b-a38f-f04386555ce7,strategy.christmas,available,30.2,30.2,high,high,8,cloudflare,,,28/10/2026 21:55
+0c423574-bba9-4b84-9583-23a75eea426c,combat.clinic,available,11.98,82.98,high,low,6,namecheap,,,24/09/2026 18:08
 ed001a39-671c-4c09-99b4-41c218cc0662,soldiers.run,available,2.79,21.94,high,low,8,spaceship,,,03/10/2026 01:32
 7d18b1b5-35d6-4ec1-aca1-4e108fefc326,soldiers.bz,available,16.79,16.79,high,low,8,porkbun,,,03/10/2026 01:32
 77e51a1a-33a2-4c85-a905-471ce09be580,soldiers.webcam,available,11.99,11.99,high,low,8,namesilo,,,03/10/2026 01:32
@@ -774,6 +841,7 @@ c91e75be-08b3-453f-bf73-31410f73944c,navy.news,premium,700,1400,high,low,4,namec
 53db691f-f0aa-4207-8385-f3ed31264b5d,soldiers.furniture,available,27.99,94.99,high,low,8,namesilo,,,03/10/2026 01:32
 bc4dc34f-e6ea-4f8d-a8e8-6631fc4e04c1,defense.farm,available,4.34,31.25,high,low,7,spaceship,,,29/09/2026 13:31
 3417aa00-998d-446f-8a2d-bdd34c7985b1,soldiers.management,available,8.24,21.11,high,low,8,porkbun,,,03/10/2026 01:32
+b6ba4953-86ef-4a02-a925-cc4029f8dea9,combat.lighting,available,22.98,31.98,high,low,6,namecheap,,,24/09/2026 18:08
 d008635f-ee93-4e4e-86da-d04e738d3fa9,combat.click,premium,91,130,high,low,6,namecheap,,,24/09/2026 18:08
 28cdcefb-d0cb-41fb-b02f-e297902749fe,soldier.report,premium,20.5,23.6,high,low,7,unstoppable,,,30/09/2026 11:28
 9e90447b-70a1-4ee2-9f27-636bdbf51e62,army.surf,premium,96,29.5,high,low,4,namesilo,,,20/09/2026 07:50
@@ -781,6 +849,7 @@ d008635f-ee93-4e4e-86da-d04e738d3fa9,combat.click,premium,91,130,high,low,6,name
 1eea27ef-f19d-46da-9995-61a5758234a9,security.zip,premium,133.72,133.72,high,high,8,spaceship,,,28/10/2026 13:20
 86b12172-0012-426c-bf5a-5d439bc79658,army.build,premium,1950,1950,high,low,4,namecheap,,,20/09/2026 07:50
 519d63ac-adce-4ceb-91a8-618f87450bcd,soldiers.meme,premium,90.2,,high,low,8,unstoppable,,,03/10/2026 01:32
+bc12e4ba-f2cc-4474-88fe-1178f611deaf,combat.voting,available,1398,1448,high,low,6,namecheap,,,24/09/2026 18:08
 4383a929-8109-4939-8824-7c2bc21d45f6,soldiers.vet,premium,260,260,high,low,8,namecheap,,,03/10/2026 01:32
 78e685f3-4109-4125-9690-c9985708b67d,navy.store,premium,647.08,2587.7,high,low,4,spaceship,,,29/09/2026 13:12
 a1d2b7ad-2923-465b-b7e7-38aad7461e76,soldier.today,available,5.99,28.49,high,low,7,namesilo,,,30/09/2026 11:28
@@ -791,6 +860,7 @@ a0208555-15d7-454d-a536-6471bbba1e3e,combat.football,available,26.98,36.98,high,
 87e6a216-da20-4b49-befb-43865ad1b7dc,soldier.expert,available,10.99,62.49,high,low,7,namesilo,,,30/09/2026 11:28
 df15a385-aca3-4623-b074-543176deda00,soldier.immobilien,available,30.22,30.22,high,low,7,spaceship,,,30/09/2026 11:28
 e3baa343-891a-4364-a75b-995ab4b9acf7,soldiers.nexus,premium,76.7,76.7,high,low,8,namecheap,,,03/10/2026 01:32
+cca28a89-cc9f-497d-a80f-9927ba151887,security.store,premium,,,high,high,8,"HOSTINGER operations, UAB",13/07/2025 09:09,13/07/2027 23:59,28/10/2026 13:20
 47998506-2397-44ce-940e-900500649c07,strategy.cheap,available,5.38,29.18,high,high,8,spaceship,,,28/10/2026 21:55
 dec51d4c-9ad3-4745-82d0-ff57ed23d073,army.london,premium,69.39,34.7,high,low,4,namecheap,,,20/09/2026 07:50
 b1dfbf7e-836c-40a9-be52-aa8b2c5b64a6,combat.plumbing,available,76.98,89.98,high,low,6,namecheap,,,24/09/2026 18:08
@@ -799,10 +869,12 @@ de74cb5f-b67a-43f0-9038-9ce4c5a5d21a,defense.cfd,premium,74.75,149.5,high,low,7,
 b40f6bdd-93b2-4eec-8dc0-5b7b2edb501b,navy.holdings,available,64.99,64.99,high,low,4,namesilo,,,29/09/2026 13:12
 3dffb070-3d0d-4a27-b9c7-9fd00cb082de,soldiers.rocks,available,6.93,17.8,high,low,8,spaceship,,,03/10/2026 01:32
 bfdee376-831d-481e-b7ae-2a979720308b,soldiers.app,premium,199.2,,high,low,8,unstoppable,,,03/10/2026 01:32
+1dbb00df-a6b0-4814-8a78-5b79151d7247,combat.blog,premium,162.5,650,high,low,6,namecheap,,,24/09/2026 18:08
 4deb60b7-72ee-4a89-983e-8bcf93413f20,soldier.holiday,available,51.95,51.95,high,low,7,spaceship,,,30/09/2026 11:28
 4cb192fd-193a-46e8-b50b-1fad5b0fe61f,forces.sydney,available,58,58,high,low,6,namesilo,,,19/09/2026 10:38
 cbf42e9f-d058-4c7e-bb29-e36261337f41,training.navy,available,33.32,33.32,high,medium,8,spaceship,,,27/10/2026 21:24
 d5af4f07-7b58-4479-b941-1a82b86a190b,army.qpon,premium,53.92,23.54,high,low,4,namesilo,,,20/09/2026 07:50
+de09dbc5-abd8-4705-a8a5-29e8fa6282d2,combat.tienda,available,62.98,74.98,high,low,6,namecheap,,,24/09/2026 18:08
 1a715fd6-a83b-4c86-b2d3-5fcd32c8684e,navy.hiv,available,184.9,184.9,high,low,4,spaceship,,,29/09/2026 13:12
 4adbfbc0-5a06-4bfc-b6b7-b603eded84d7,soldiers.discount,premium,34.36,34.36,high,low,8,spaceship,,,03/10/2026 01:32
 35840525-3b0d-40af-85b2-8ea08b471912,soldiers.onl,available,18.2,18.2,high,low,8,cloudflare,,,03/10/2026 01:32
@@ -892,13 +964,16 @@ f7a0c7eb-d25e-41ec-b162-f0585b924a85,soldiers.life,premium,36.32,72.57,high,low,
 b98d9e86-93c6-48ac-890f-65e8f56f4b01,defense.voting,available,978.6,978.6,high,low,7,dynadot,,,29/09/2026 13:31
 033ce3ba-5be8-4fef-89d3-a738ee031b71,forces.webcam,premium,640,77.35,high,low,6,namesilo,,,16/09/2026 15:45
 fefbae08-b32d-4dd9-81e7-39bf3b2aa889,soldiers.kiwi,available,21.34,21.34,high,low,8,dynadot,,,03/10/2026 01:32
+512d9464-0c56-46fb-8329-dd7bc23ac831,warfare.coach,available,10.55,62.3,high,low,7,spaceship,,,30/09/2026 14:38
 f527e2f4-85d3-4b82-a37f-9a9b032082f2,army.bayern,available,34.99,34.99,high,low,4,namesilo,,,20/09/2026 07:50
 9eb67abf-0dbb-47cd-8e76-9e332d5ceb16,forces.contact,available,14.99,14.99,high,low,6,namesilo,,,16/09/2026 15:45
 491d2c6f-cbe3-4939-88be-e084a50718a4,soldiers.racing,available,10.53,10.53,high,low,8,spaceship,,,03/10/2026 01:32
 4e2f4a64-165f-475f-a722-8d9f503a781b,soldier.irish,available,5.57,18.41,high,low,7,dynadot,,,30/09/2026 11:28
 2951d500-472c-4bea-8880-5a9e6e993089,navy.accountants,available,93.35,93.35,high,low,4,spaceship,,,29/09/2026 13:12
+edd08157-50cd-426d-b116-718e6028c97c,warfare.luxe,available,19.49,19.49,high,low,7,namesilo,,,30/09/2026 14:38
 7afd87a1-648f-493d-a36a-bc4cb71520f0,combat.hot,premium,130,130,high,low,6,namecheap,,,24/09/2026 18:08
 fa572be4-857a-471f-8637-c2ab92e76504,soldier.contractors,available,28.15,28.15,high,low,7,spaceship,,,30/09/2026 11:28
+dbb213d3-f1a2-48d1-8729-46a7228b599b,security.lifestyle,premium,362.45,517.7,high,high,8,spaceship,,,28/10/2026 13:20
 23209e41-00dc-4ba4-8a33-0efa21eae93e,strategy.exchange,premium,,,high,high,8,"GoDaddy.com, LLC",07/03/2018 22:07,07/03/2027 22:07,28/10/2026 21:55
 0e6c2057-f874-4567-8bd5-0d9aac435819,army.day,premium,648.7,648.7,high,low,4,namecheap,,,20/09/2026 07:50
 c69fd644-154c-4c51-aa36-cb5f093bf190,defense.cheap,available,8.99,36.49,high,low,7,namesilo,,,29/09/2026 13:31
@@ -906,11 +981,13 @@ c69fd644-154c-4c51-aa36-cb5f093bf190,defense.cheap,available,8.99,36.49,high,low
 3a461f0f-2916-4e54-9150-a92faf118ae5,soldier.travel,available,15.96,118.95,high,low,7,porkbun,,,30/09/2026 11:28
 19c394cf-534c-4339-b4e8-530669f2eaa7,combat.construction,available,40.98,50.98,high,low,6,namecheap,,,24/09/2026 18:08
 606eab77-5241-4410-960c-9ec78f7ab6db,soldiers.page,premium,34.22,34.22,high,low,8,namesilo,,,03/10/2026 01:32
+3b1f3ea5-67f0-42b4-8263-e463aebf0429,security.lighting,premium,,,high,high,8,"GoDaddy.com, LLC",04/09/2019 04:34,04/09/2027 04:34,28/10/2026 13:20
 a1f55c96-609a-4bb0-ade7-49ee10890ef9,soldiers.vip,premium,224,17.7,high,low,8,namesilo,,,03/10/2026 01:32
 e79061ff-d6c2-4ac6-bf81-c3bfa8bfc120,strategy.lawyer,available,62.99,62.99,high,high,8,namesilo,,,28/10/2026 21:55
 a8dcdaf1-4530-4f34-b33b-c617de242c80,soldiers.team,available,7,36.49,high,low,8,unstoppable,,,03/10/2026 01:32
 b7ddd37f-9961-418a-8356-083509778c5f,forces.name,available,8.98,9.98,high,low,6,namecheap,,,16/09/2026 15:45
 b2269065-00e7-4cda-a4ed-4ddf7c5b01fa,soldiers.center,available,4.34,26.08,high,low,8,spaceship,,,03/10/2026 01:32
+d881edda-e28c-4cf5-9be4-3c434f612564,warfare.jewelry,available,51.95,51.95,high,low,7,spaceship,,,30/09/2026 14:38
 0a1a0708-0981-4ac4-a74c-674e813fa11a,forces.yoga,available,32.49,32.49,high,low,6,namesilo,,,16/09/2026 15:45
 cfbfb3e5-d9fe-4c53-9e13-59d424067772,soldier.partners,available,9.52,57.13,high,low,7,spaceship,,,30/09/2026 11:28
 708b26ce-e6ed-4c75-817d-487490b52e3f,combat.wtf,available,2.98,49.48,high,low,6,namecheap,,,24/09/2026 18:08
@@ -922,80 +999,3 @@ b65c0424-dba8-4888-9f2a-8c62e4c0dcc9,defense.baby,available,1.8,81.98,high,low,7
 62c68b37-b714-4ab1-9268-0254d29f25f3,soldier.shiksha,available,14.99,51.99,high,low,7,namesilo,,,30/09/2026 11:28
 f6ca6ed8-f10f-4123-b0d3-ec5faedff56d,navy.pictures,available,15.49,15.49,high,low,4,namesilo,,,29/09/2026 13:12
 612c6e94-2e4d-4017-be3c-44cf04f4260c,combat.recipes,available,5.48,95.98,high,low,6,namecheap,,,24/09/2026 18:08
-cca82feb-8ba2-48a1-a791-238a8f2f5207,defense.prof,premium,206.7,206.7,high,low,7,namecheap,,,29/09/2026 13:31
-12795e39-5fc9-4e59-a8b8-ac36a681c126,navy.parts,available,32.2,32.2,high,low,4,cloudflare,,,29/09/2026 13:12
-8dfd8d90-b471-47a3-8ecc-bd542285816e,soldiers.gg,resell,,,high,low,8,Sav.com LLC (https://www.sav.com),,,03/10/2026 01:32
-8b44290a-e33d-4527-af7d-b8e662d6dc0d,army.vip,premium,6900,17.7,high,low,4,namesilo,,,20/09/2026 07:50
-4fdd5a74-f497-4f9e-9dec-df4323ca0b0e,forces.barcelona,available,38.98,38.98,high,low,6,namecheap,,,16/09/2026 15:45
-56018e90-feaf-482d-8b2d-7d0aa51399b2,soldier.salon,available,44.2,44.2,high,low,7,cloudflare,,,30/09/2026 11:28
-077304d6-a1ff-4627-9cbf-df9ca3cc5d1a,defense.deal,premium,116,116,high,low,7,namesilo,,,29/09/2026 13:31
-e1cfa38b-d302-4bb9-8f06-cb8ebe04eaba,forces.homes,available,1.99,17.29,high,low,6,namesilo,,,16/09/2026 15:45
-e449b52a-2798-4ce8-bd2d-6fe7fafbeaed,defense.ca,resell,,,high,low,7,MyID.ca INC.,24/01/2002 15:04,24/01/2027 05:00,29/09/2026 13:31
-dc2d7120-37a1-42bb-ac9b-8d224ba30095,combat.loan,premium,455,65,high,low,6,namecheap,,,24/09/2026 18:08
-d912eff6-cbf2-415a-88b6-9602c41bb91f,forces.voting,available,1398,1448,high,low,6,namecheap,,,17/09/2026 08:42
-8243bef6-b467-42f9-b9e5-77e4f059bc8e,army.moi,available,25.99,25.99,high,low,4,namesilo,,,20/09/2026 07:50
-b5c618ca-fd15-4d9e-8863-bdf9caa7b853,forces.cx,available,18.99,18.99,high,low,6,namesilo,,,16/09/2026 15:45
-cce08c16-b83d-4e69-b391-fb910c84a977,defense.page,premium,133.72,133.72,high,low,7,spaceship,,,29/09/2026 13:31
-54c413b2-da67-45ad-8988-4dd7becb59af,battalion.icu,available,3.19,19.49,high,low,9,namesilo,,,22/09/2026 14:24
-52875d81-026a-43b4-85a3-8f7a33a5d3d7,strategy.voto,available,10.55,55.93,high,high,8,spaceship,,,28/10/2026 21:55
-2b9edac9-ba8f-4408-a4db-a1a4e2b3f6ec,soldier.attorney,available,49.88,49.88,high,low,7,spaceship,,,30/09/2026 11:28
-51f4740c-818f-49a5-8407-2875afa2fbbd,soldiers.qpon,available,2.19,11.49,high,low,8,namesilo,,,03/10/2026 01:32
-d7b4f0ae-d099-4eb4-b5c8-ec4688c496ac,forces.sh,available,34.98,76.98,high,low,6,namecheap,,,16/09/2026 15:45
-205d6664-4e95-4615-bb2b-5e6f557ebb52,soldier.lgbt,premium,78.54,78.54,high,low,7,namesilo,,,30/09/2026 11:28
-2f0c2329-2c94-45bd-8e76-91f2a6e6d031,security.cars,available,2140.22,2140.22,high,high,8,dynadot,,,28/10/2026 13:20
-dcbb0491-92ec-4998-b633-0984a216392a,defense.kids,premium,51.95,18.83,high,low,7,spaceship,,,29/09/2026 13:31
-eef94493-4368-4986-b0a0-ce66b6342170,navy.work,premium,130,13,high,low,4,namecheap,,,29/09/2026 13:12
-0024804f-7f27-474d-81d8-ea10dd9037ba,combat.cricket,premium,455,65,high,low,6,namecheap,,,24/09/2026 18:08
-daf3b1fd-1158-446b-8136-68fc85817ebd,navy.boo,premium,257.92,257.92,high,low,4,spaceship,,,29/09/2026 13:12
-fc54d449-7844-4030-b60f-a5e272c58dbf,combat.name,available,8.98,9.98,high,low,6,namecheap,,,24/09/2026 18:08
-df1bd566-6735-48e8-80e9-79ef88475e72,soldier.degree,available,41.6,41.6,high,low,7,spaceship,,,30/09/2026 11:28
-6ac250bd-3211-4b47-8b4e-3d9a39371eba,soldier.tickets,available,326.21,388.33,high,low,7,spaceship,,,30/09/2026 11:28
-888f7bad-39e0-4746-9cd9-97eca56a05e6,battalion.cars,available,1999.99,2199,high,low,9,namesilo,,,22/09/2026 14:24
-0744b67d-6c66-4793-bd3a-d3b4faad2ad8,combat.expert,available,8.98,82.48,high,low,6,namecheap,,,24/09/2026 18:08
-4fa93470-fdb4-4ad8-8d7a-cb6b62c421be,combat.moe,available,14.98,17.88,high,low,6,namecheap,,,24/09/2026 18:08
-8d5c3b12-0451-4240-a69a-0e1b33cfe08b,defense.social,resell,,,high,low,7,Squarespace Domains II LLC,07/02/2024 15:15,07/02/2027 15:15,29/09/2026 13:31
-9995f9de-3eb3-46a6-b46f-b4e8fc589cb4,forces.giving,available,7.48,35.98,high,low,6,namecheap,,,16/09/2026 15:45
-a4de464d-5084-4c2f-8aca-e3f919a9c7c0,defense.racing,premium,103.7,103.7,high,low,7,spaceship,,,29/09/2026 13:31
-ec065d5d-e241-4d18-882e-b231c83837e8,forces.diy,available,5.49,39.99,high,low,6,namesilo,,,16/09/2026 15:45
-cd991050-0129-4649-b7c9-caa29cc4d85a,strategy.mortgage,premium,207.2,207.2,high,high,8,spaceship,,,28/10/2026 21:55
-db577640-ef40-486e-bbd4-0ad623df4d0c,soldiers.bet,available,13.5,,high,low,8,unstoppable,,,03/10/2026 01:32
-24671f6e-44bf-460f-b9ae-fbdbe5a490d0,forces.diamonds,available,54.99,54.99,high,low,6,namesilo,,,16/09/2026 15:45
-a9fd0d11-634e-4851-b626-6f3bd2ba3e34,soldier.tech,premium,258.95,1035.2,high,low,7,spaceship,,,30/09/2026 11:28
-6cee2d9f-0c63-4614-b5ca-60b849efe1e6,navy.barcelona,available,25.04,25.04,high,low,4,spaceship,,,29/09/2026 13:12
-03cabaa2-4344-4d17-b422-e8628ea86b4d,army.graphics,premium,118.8,118.8,high,low,4,namesilo,,,20/09/2026 07:50
-8fbf2585-0005-424d-adbd-9f95411bf2ca,soldier.camp,available,62.99,62.99,high,low,7,namesilo,,,30/09/2026 11:28
-6cd20983-6050-4f39-bf48-377842f7016e,strategy.accountants,available,117.99,117.99,high,high,8,namesilo,,,28/10/2026 21:55
-0f61aa57-034c-4573-9a50-447f93d05e21,soldier.ong,available,18.98,24.98,high,low,7,namecheap,,,30/09/2026 11:28
-b9a5c4ba-79fa-4687-ac88-85ebe12b9d26,forces.glass,available,72.99,72.99,high,low,6,namesilo,,,16/09/2026 15:45
-fd74f67f-1591-4c6b-b9c3-27123ff3958e,defense.markets,available,5.38,15.73,high,low,7,spaceship,,,29/09/2026 13:31
-30451f5d-8f20-41de-b034-9c982acd73d3,army.site,available,,,high,low,4,,,,09/10/2026 09:02
-32432c82-2f77-4da6-b0dd-dea256796b6c,battalion.ninja,available,15.99,30.99,high,low,9,namesilo,,,22/09/2026 14:24
-b9fefac7-5001-4dd0-9400-346be653966c,forces.mom,available,1.99,27.99,high,low,6,namesilo,,,16/09/2026 15:45
-9bc586e3-c623-41f5-ac5d-345ffff8a668,forces.hockey,available,59.99,59.99,high,low,6,namesilo,,,16/09/2026 15:45
-ea01dc52-4dca-4d33-9ba7-4491b0172975,strategy.organic,available,17.99,85.99,high,high,8,namesilo,,,28/10/2026 21:55
-a138ceee-ce3f-4720-8a25-9786d66fcc50,battalion.la,available,27.99,27.99,high,low,9,namesilo,,,22/09/2026 14:24
-5777a585-d31a-499c-a874-0b636a024523,soldiers.courses,available,2.19,38.99,high,low,8,namesilo,,,03/10/2026 01:32
-c4103fa8-2dbe-473a-89b0-7e182acef8b2,troops.autos,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 23:43
-fa3f59d7-a120-4c92-8ef5-2f83276c8aac,army.coach,available,17.99,77.99,high,low,4,namesilo,,,20/09/2026 07:50
-9f4559cc-1186-4317-933f-f86990f976ca,soldiers.creditcard,available,144.99,144.99,high,low,8,namesilo,,,03/10/2026 01:32
-bf197eb6-b84b-442c-9e34-31a7be822195,combat.online,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/11/2017 00:32,14/11/2028 23:59,26/09/2026 05:07
-5b09bf7b-2798-4cd1-b2cd-4eb516f0f739,army.productions,premium,242,242,high,low,4,namesilo,,,20/09/2026 07:50
-23f717bf-a919-4149-9420-8bac17f40769,soldier.fan,available,57.98,68.98,high,low,7,namecheap,,,30/09/2026 11:28
-5330208c-0788-4b0f-83fc-9772e8843b5d,security.game,premium,1430,1430,high,high,8,dynadot,,,28/10/2026 13:20
-e29e2e8d-b99c-4051-b0ba-3a3d76d58c24,navy.build,premium,625,,high,low,4,name.com,,,29/09/2026 13:12
-2f87eab4-4dae-46b9-ac3b-a59117cb41fb,battalion.actor,available,16.99,44.49,high,low,9,namesilo,,,22/09/2026 14:24
-b933f46a-cd53-49d8-93e9-74ebce6f3ead,security.llc,premium,517.7,517.7,high,high,8,spaceship,,,28/10/2026 13:20
-500f8d3d-17ca-4dc4-8278-83a2684f647e,soldier.my,premium,91.96,91.96,high,low,7,namesilo,,,30/09/2026 11:28
-8647d5dd-dd6a-40d1-9dd7-dbe3d57c048f,warfare.sarl,available,5.38,5.38,high,low,7,spaceship,,,30/09/2026 14:38
-557da06b-d202-430c-9196-ed069787e53d,security.page,premium,,,high,high,8,"CloudFlare, Inc.",01/02/2021 18:48,01/02/2027 18:48,28/10/2026 13:20
-ebf2e9e2-fa2e-49f1-9785-91432b6524dc,troops.law,available,95.99,95.99,high,low,6,namesilo,,,25/09/2026 23:43
-8373318b-6fce-402e-8a49-6c7e928aa1aa,soldiers.reviews,available,48.2,48.2,high,low,8,cloudflare,,,03/10/2026 01:32
-a169972b-8b94-46c9-8c92-1f27f91d7ad2,soldiers.memorial,premium,242,242,high,low,8,namesilo,,,03/10/2026 01:32
-721f641b-8dad-4d57-8c64-0036dc6bcfe6,defense.fitness,premium,242,242,high,low,7,namesilo,,,29/09/2026 13:31
-310bfb2d-6be5-4276-8a11-49467908f592,soldiers.moe,available,13.99,13.99,high,low,8,namesilo,,,03/10/2026 01:32
-526a1d17-bf7b-4e7b-8786-fd1eb5b0c2b3,soldier.airforce,available,83,83,high,low,7,spaceship,,,30/09/2026 11:28
-fc57e76a-b7e5-4b8c-9afd-e7a5d0946be2,security.auto,available,2070,2950,high,high,8,namecheap,,,28/10/2026 13:20
-22a7a178-aced-4005-9fc9-3cf5158803c7,navy.prof,premium,340.72,340.72,high,low,4,spaceship,,,29/09/2026 13:12
-b0da4dd6-3789-4a68-8baa-7acc2a0b6664,battalion.bz,available,21.98,26.98,high,low,9,namecheap,,,22/09/2026 14:24
-d69a3cb6-9083-4c91-8199-3612e5a55a67,army.bingo,available,51.98,68.98,high,low,4,namecheap,,,20/09/2026 07:50
-a7289ebf-2417-406b-911d-33550d4b03da,army.skin,premium,2660,2660,high,low,4,namesilo,,,20/09/2026 07:50
